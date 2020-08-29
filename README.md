@@ -2,7 +2,7 @@
 use CNN model of Tensorflow to predict different class of picture
 
 type of class : four categories of dogs
-## Selenium
+## Use Selenium
 use selenium webdriver to automatically scrapy the pictures of dogs
-## TesorFlow 
+## USe TensorFlow 
 build CNN model and predict the class
